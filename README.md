@@ -1,3 +1,2 @@
-# Estimation_Sim
-
-Using UKF to estimate the position of Multiple Targets from Unmanned Aeriel Vehicle.
+# Simulation: Pose estimation using deep neural network and unscented kalman filter for multiple targets
+how to use package (coming soon)
